@@ -1,6 +1,6 @@
 cask "aerialwall" do
-  version "0.1.0-beta.2"
-  sha256 "b638a9014216d59e43c7c8d74fc14a611e3f8d91b7ef056f4fca99fffa605a36"
+  version "0.1.0-beta.3"
+  sha256 "f67e523a9f1b2f6767bf7fe470819cddd839c8b40b79a8cbca97c8057d1a40c2"
 
   url      "https://github.com/CatKinKitKat/AerialWall/releases/download/v#{version}/AerialWall-v#{version}-macos-arm64.zip",
            verified: "github.com/CatKinKitKat/AerialWall/"
